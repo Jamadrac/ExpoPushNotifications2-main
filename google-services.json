@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54949071892",
+    "project_id": "notificationsr-e27b4",
+    "storage_bucket": "notificationsr-e27b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54949071892:android:f4a36a556ce3a5dc646b01",
+        "android_client_info": {
+          "package_name": "com.wa2goose.PushNotifications2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFoZoocpc6mdtS3VLfqbUdnNxrJGc3zSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
