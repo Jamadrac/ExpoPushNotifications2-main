@@ -11,7 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.wa2goose.PushNotifications2"
@@ -21,7 +23,6 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-
       "package": "com.wa2goose.PushNotifications2",
       "googleServicesFile": "./android/app/google-services.json"
     },
@@ -30,7 +31,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "e9370c3c-47e4-477b-9344-1a211f2aead2"
+        "projectId": "3d3c53f1-e237-49b1-9229-ebc12d39552b"
       }
     }
   }
